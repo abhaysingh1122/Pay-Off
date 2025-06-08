@@ -1,6 +1,6 @@
 # 💸 PayOff
 
-**PayOff** is an offline payment web app built with **React**, enabling peer-to-peer transactions via **Bluetooth** using the **Web Bluetooth API**. It allows users to scan nearby devices, establish connections, and send payment data — **completely offline**.
+**PayOff** is an offline payment web appm enabling peer-to-peer transactions via **Bluetooth** using the **Web Bluetooth API**. It allows users to scan nearby devices, establish connections, and send payment data — **completely offline**.
 
 ---
 
@@ -96,6 +96,10 @@ Contributions are welcome!
 5. Open a pull request
 
 ---
+
+Future Updates: 
+1. Making more appealing and clean UI.
+2. Launching an app to actually make it for offline view easily.
 
 ## License
 
